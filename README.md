@@ -31,7 +31,7 @@ The repository is organized by year and day.
 | Day | Part 1                          | Part 2                          |
 | --- |---------------------------------|---------------------------------|
 | [Day 01](2024/01) | [Go](2024/01/main.go)           | [Go](2024/01/main.go)           |
-| [Day 02](2024/02) | [Python](2024/02/part1/main.py) | |
+| [Day 02](2024/02) | [Python](2024/02/part1/main.py) | [Python](2024/02/part2/main.py) |
 
 
 ## License
